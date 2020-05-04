@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//fireforce.netlify.app/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//fireforce.online/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://fireforce.netlify.app/</loc>
+		<loc>https://fireforce.online/</loc>
 		<lastmod>2020-03-25T18:20:58+00:00</lastmod>
 		<image:image>
-			<image:loc>https://fireforce.netlify.app/wp-content/uploads/2020/03/fire-force.jpg</image:loc>
+			<image:loc>https://fireforce.online/wp-content/uploads/2020/03/fire-force.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://fireforce.netlify.app/wp-content/uploads/2020/03/fireforce.jpg</image:loc>
+			<image:loc>https://fireforce.online/wp-content/uploads/2020/03/fireforce.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://fireforce.netlify.app/terms-and-conditions/</loc>
+		<loc>https://fireforce.online/terms-and-conditions/</loc>
 		<lastmod>2019-10-19T02:18:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://fireforce.netlify.app/privacy-policy/</loc>
+		<loc>https://fireforce.online/privacy-policy/</loc>
 		<lastmod>2019-10-19T02:19:06+00:00</lastmod>
 	</url>
 </urlset>
